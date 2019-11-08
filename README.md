@@ -6,3 +6,6 @@
 
 ## hello.c
 hello world
+
+## e02.c
+goodbye
